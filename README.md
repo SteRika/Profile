@@ -13,7 +13,7 @@
 
 ## Core Stack
 
-`C# / .NET 8` `ASP.NET Core` `Python` `SQL Server` `PostgreSQL` `React 18` `MQTT / IoT` `YOLO / Computer Vision` `GitHub Actions` `PLC Integration`
+`C# / .NET 8` `ASP.NET Core` `Python` `SQL Server` `PostgreSQL` `MQTT / IoT` `YOLO / Computer Vision` `GitHub Actions` `PLC Integration`
 
 ---
 
